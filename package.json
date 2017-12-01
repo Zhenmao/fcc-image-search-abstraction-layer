@@ -1,0 +1,26 @@
+{
+  "name": "fcc-zhenmao-image-search-abstraction-layer",
+  "version": "0.0.1",
+  "description": "Image Search Abstraction Layer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "mongoose": "^4.13.5"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
